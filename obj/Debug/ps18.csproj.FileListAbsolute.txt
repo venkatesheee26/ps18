@@ -1,0 +1,8 @@
+D:\ps\ps18\ps18\bin\Debug\ps18.exe.config
+D:\ps\ps18\ps18\bin\Debug\ps18.exe
+D:\ps\ps18\ps18\bin\Debug\ps18.pdb
+D:\ps\ps18\ps18\obj\Debug\ps18.csproj.AssemblyReference.cache
+D:\ps\ps18\ps18\obj\Debug\ps18.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps18\ps18\obj\Debug\ps18.csproj.CoreCompileInputs.cache
+D:\ps\ps18\ps18\obj\Debug\ps18.exe
+D:\ps\ps18\ps18\obj\Debug\ps18.pdb
